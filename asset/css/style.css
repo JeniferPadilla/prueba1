@@ -1,0 +1,42 @@
+.ima {
+  width: 200px;
+  left: 200px;
+  display: block;
+  margin: auto;
+}
+.im {
+  width: 60px;
+  left: 60px;
+  display: block;
+  float: left;
+}
+.imag {
+  width: 250px;
+  left: 250px;
+  display: block;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.container {
+  background-color: #c1dbe7;
+  padding: 20px;
+}
+.titulo {
+  color: #d21e1e;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+}
+body {
+  background-color: #6db4dd;
+}
+.texto {
+  color: rgb(1, 1, 12);
+  font-size: 18px;
+  font-weight: 200;
+}
+.tables {
+  margin: 0 auto;
+  border: red 5px solid;
+}
